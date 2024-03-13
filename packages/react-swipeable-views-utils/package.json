@@ -1,6 +1,6 @@
 {
   "name": "react-swipeable-views-utils-babel-version-fix",
-  "version": "0.14.2",
+  "version": "0.14.3",
   "description": "react-swipeable-views utility modules",
   "main": "lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "keycode": "^2.1.7",
     "prop-types": "^15.6.0",
     "react-event-listener": "^0.6.0",
-    "react-swipeable-views-core-babel-version-fix": "0.14.2",
+    "react-swipeable-views-core-babel-version-fix": "0.14.3",
     "shallow-equal": "^1.2.1"
   },
   "devDependencies": {
