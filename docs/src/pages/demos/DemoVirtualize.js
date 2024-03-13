@@ -3,8 +3,8 @@
 import React from 'react';
 import Button from '@material-ui/core/Button';
 import SwipeableViews from 'react-swipeable-views';
-import { virtualize, bindKeyboard } from 'react-swipeable-views-utils';
-import { mod } from 'react-swipeable-views-core';
+import { virtualize, bindKeyboard } from 'react-swipeable-views-utils-babel-version-fix';
+import { mod } from 'react-swipeable-views-core-babel-version-fix';
 
 const VirtualizeSwipeableViews = bindKeyboard(virtualize(SwipeableViews));
 

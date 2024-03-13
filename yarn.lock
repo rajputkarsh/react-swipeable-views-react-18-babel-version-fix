@@ -8859,22 +8859,22 @@ react-loadable@5.4.0:
   dependencies:
     prop-types "^15.5.0"
 
-react-swipeable-views-core@^0.14.0, "react-swipeable-views-core@file:/Users/appinventiv/projects/react-swipeable-views-react-18-babel-version-fix/packages/react-swipeable-views-core":
+react-swipeable-views-core-babel-version-fix@^0.14.0, "react-swipeable-views-core-babel-version-fix@file:/Users/appinventiv/projects/react-swipeable-views-react-18-babel-version-fix/packages/react-swipeable-views-core-babel-version-fix":
   version "0.14.0"
-  resolved "file:packages/react-swipeable-views-core"
+  resolved "file:packages/react-swipeable-views-core-babel-version-fix"
   dependencies:
     "@babel/runtime" "7.0.0"
     warning "^4.0.1"
 
-react-swipeable-views-utils@^0.14.0, "react-swipeable-views-utils@file:/Users/appinventiv/projects/react-swipeable-views-react-18-babel-version-fix/packages/react-swipeable-views-utils":
+react-swipeable-views-utils-babel-version-fix@^0.14.0, "react-swipeable-views-utils-babel-version-fix@file:/Users/appinventiv/projects/react-swipeable-views-react-18-babel-version-fix/packages/react-swipeable-views-utils-babel-version-fix":
   version "0.14.0"
-  resolved "file:packages/react-swipeable-views-utils"
+  resolved "file:packages/react-swipeable-views-utils-babel-version-fix"
   dependencies:
     "@babel/runtime" "7.0.0"
     keycode "^2.1.7"
     prop-types "^15.6.0"
     react-event-listener "^0.6.0"
-    react-swipeable-views-core "^0.14.0"
+    react-swipeable-views-core-babel-version-fix "^0.14.0"
     shallow-equal "^1.2.1"
 
 "react-swipeable-views@file:/Users/appinventiv/projects/react-swipeable-views-react-18-babel-version-fix/packages/react-swipeable-views":
@@ -8883,8 +8883,8 @@ react-swipeable-views-utils@^0.14.0, "react-swipeable-views-utils@file:/Users/ap
   dependencies:
     "@babel/runtime" "7.0.0"
     prop-types "^15.5.4"
-    react-swipeable-views-core "^0.14.0"
-    react-swipeable-views-utils "^0.14.0"
+    react-swipeable-views-core-babel-version-fix "^0.14.0"
+    react-swipeable-views-utils-babel-version-fix "^0.14.0"
     warning "^4.0.1"
 
 react-test-renderer@^16.0.0-0:

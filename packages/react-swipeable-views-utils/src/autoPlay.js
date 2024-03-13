@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { shallowEqualObjects } from 'shallow-equal';
 import EventListener from 'react-event-listener';
-import { mod } from 'react-swipeable-views-core';
+import { mod } from 'react-swipeable-views-core-babel-version-fix';
 
 export default function autoPlay(MyComponent) {
   class AutoPlay extends React.Component {

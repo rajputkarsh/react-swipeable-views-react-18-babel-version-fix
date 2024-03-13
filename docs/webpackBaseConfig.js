@@ -8,13 +8,13 @@ module.exports = {
     modules: [path.join(__dirname, '../'), 'node_modules'],
     alias: {
       'react-swipeable-views': path.resolve(__dirname, '../packages/react-swipeable-views/src'),
-      'react-swipeable-views-core': path.resolve(
+      'react-swipeable-views-core-babel-version-fix': path.resolve(
         __dirname,
-        '../packages/react-swipeable-views-core/src',
+        '../packages/react-swipeable-views-core-babel-version-fix/src',
       ),
-      'react-swipeable-views-utils': path.resolve(
+      'react-swipeable-views-utils-babel-version-fix': path.resolve(
         __dirname,
-        '../packages/react-swipeable-views-utils/src',
+        '../packages/react-swipeable-views-utils-babel-version-fix/src',
       ),
       docs: __dirname,
     },

@@ -5888,17 +5888,17 @@ react-proxy@^1.1.7:
     lodash "^4.6.1"
     react-deep-force-update "^1.0.0"
 
-react-swipeable-views-core@^0.13.0:
+react-swipeable-views-core-babel-version-fix@^0.13.0:
   version "0.13.0"
-  resolved "https://registry.yarnpkg.com/react-swipeable-views-core/-/react-swipeable-views-core-0.13.0.tgz#6bf8a8132a756355444537672a14e84b1e3b53c2"
+  resolved "https://registry.yarnpkg.com/react-swipeable-views-core-babel-version-fix/-/react-swipeable-views-core-babel-version-fix-0.13.0.tgz#6bf8a8132a756355444537672a14e84b1e3b53c2"
   integrity sha512-MAe119eSN4obiqsIp+qoUWtLbyjz+dWEfz+qPurPvyIFoXxuxpBnsDy36+C7cBaCi5z4dRmfoMlm1dBAdIzvig==
   dependencies:
     "@babel/runtime" "7.0.0"
     warning "^4.0.1"
 
-react-swipeable-views-utils@^0.13.0:
+react-swipeable-views-utils-babel-version-fix@^0.13.0:
   version "0.13.0"
-  resolved "https://registry.yarnpkg.com/react-swipeable-views-utils/-/react-swipeable-views-utils-0.13.0.tgz#0ea17aa67f88a69d534c79d591f8d82ef98346a4"
+  resolved "https://registry.yarnpkg.com/react-swipeable-views-utils-babel-version-fix/-/react-swipeable-views-utils-babel-version-fix-0.13.0.tgz#0ea17aa67f88a69d534c79d591f8d82ef98346a4"
   integrity sha512-1I4BhDqA6qkRdW0nexnudh/QdvVAVy0a7M5OyU2TrjaTovg6ufBouzqfqjZfUZUxVdOftTkPtisHmcqqZ+b1TA==
   dependencies:
     "@babel/runtime" "7.0.0"
@@ -5906,7 +5906,7 @@ react-swipeable-views-utils@^0.13.0:
     keycode "^2.1.7"
     prop-types "^15.6.0"
     react-event-listener "^0.6.0"
-    react-swipeable-views-core "^0.13.0"
+    react-swipeable-views-core-babel-version-fix "^0.13.0"
 
 react-test-renderer@^16.5.0:
   version "16.6.0"

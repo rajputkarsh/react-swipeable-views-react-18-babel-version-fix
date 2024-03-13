@@ -4,7 +4,7 @@
 
 import * as React from 'react';
 import { StyleSheet, View, ScrollView, Dimensions, ViewStyle } from 'react-native';
-import { checkIndexBounds, getDisplaySameSlide } from 'react-swipeable-views-core';
+import { checkIndexBounds, getDisplaySameSlide } from 'react-swipeable-views-core-babel-version-fix';
 
 const { width: windowWidth } = Dimensions.get('window');
 

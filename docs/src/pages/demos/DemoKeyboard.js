@@ -1,6 +1,6 @@
 import React from 'react';
 import SwipeableViews from 'react-swipeable-views';
-import { bindKeyboard } from 'react-swipeable-views-utils';
+import { bindKeyboard } from 'react-swipeable-views-utils-babel-version-fix';
 
 const BindKeyboardSwipeableViews = bindKeyboard(SwipeableViews);
 

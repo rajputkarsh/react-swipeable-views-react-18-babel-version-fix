@@ -1,5 +1,5 @@
 {
-  "name": "react-swipeable-views-core",
+  "name": "react-swipeable-views-core-babel-version-fix",
   "version": "0.14.1",
   "description": "react-swipeable-views core modules",
   "main": "lib/index.js",
@@ -16,13 +16,13 @@
   },
   "dependencies": {
     "@babel/runtime": "7.24.0",
-    "warning": "^4.0.1"
+    "warning": "4.0.1"
   },
   "devDependencies": {
     "pkgfiles": "^2.3.2"
   },
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0 || ^17.0.0"
+    "react": "^15.3.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
   },
   "license": "MIT",
   "engines": {

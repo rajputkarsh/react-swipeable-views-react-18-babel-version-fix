@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { View } from 'react-native';
 import SwipeableViews from '../../packages/react-swipeable-views-native/src';
-import { autoPlay } from 'react-swipeable-views-utils';
+import { autoPlay } from 'react-swipeable-views-utils-babel-version-fix';
 import Pagination from '../pagination/Pagination';
 import { Title } from 'react-native-paper';
 import styles from '../styles';

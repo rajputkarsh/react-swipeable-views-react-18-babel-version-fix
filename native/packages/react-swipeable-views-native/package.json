@@ -30,7 +30,7 @@
     "url": "https://github.com/oliviertassinari/react-swipeable-views/issues"
   },
   "dependencies": {
-    "react-swipeable-views-core": "^0.13.0"
+    "react-swipeable-views-core-babel-version-fix": "^0.13.0"
   },
   "peerDependencies": {
     "react": "^16.5",

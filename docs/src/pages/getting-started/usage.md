@@ -123,7 +123,7 @@ Let's see an example with the browser:
 ```jsx
 import React from 'react';
 import SwipeableViews from 'react-swipeable-views';
-import { virtualize } from 'react-swipeable-views-utils';
+import { virtualize } from 'react-swipeable-views-utils-babel-version-fix';
 
 const VirtualizeSwipeableViews = virtualize(SwipeableViews);
 
@@ -150,7 +150,7 @@ Let's see an example with the browser:
 ```jsx
 import React from 'react';
 import SwipeableViews from 'react-swipeable-views';
-import { autoPlay } from 'react-swipeable-views-utils';
+import { autoPlay } from 'react-swipeable-views-utils-babel-version-fix';
 
 const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
@@ -174,7 +174,7 @@ Let's see an example with the browser:
 ```jsx
 import React from 'react';
 import SwipeableViews from 'react-swipeable-views';
-import { bindKeyboard } from 'react-swipeable-views-utils';
+import { bindKeyboard } from 'react-swipeable-views-utils-babel-version-fix';
 
 const BindKeyboardSwipeableViews = bindKeyboard(SwipeableViews);
 

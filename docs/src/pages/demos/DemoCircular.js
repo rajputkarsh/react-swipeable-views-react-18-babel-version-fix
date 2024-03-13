@@ -1,7 +1,7 @@
 import React from 'react';
 import SwipeableViews from 'react-swipeable-views';
-import { virtualize } from 'react-swipeable-views-utils';
-import { mod } from 'react-swipeable-views-core';
+import { virtualize } from 'react-swipeable-views-utils-babel-version-fix';
+import { mod } from 'react-swipeable-views-core-babel-version-fix';
 
 const VirtualizeSwipeableViews = virtualize(SwipeableViews);
 

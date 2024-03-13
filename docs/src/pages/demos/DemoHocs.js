@@ -2,8 +2,8 @@
 
 import React from 'react';
 import SwipeableViews from 'react-swipeable-views';
-import { autoPlay, virtualize, bindKeyboard } from 'react-swipeable-views-utils';
-import { mod } from 'react-swipeable-views-core';
+import { autoPlay, virtualize, bindKeyboard } from 'react-swipeable-views-utils-babel-version-fix';
+import { mod } from 'react-swipeable-views-core-babel-version-fix';
 
 const EnhancedSwipeableViews = bindKeyboard(autoPlay(virtualize(SwipeableViews)));
 
