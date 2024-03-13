@@ -1,6 +1,6 @@
 {
   "name": "react-swipeable-views-core-babel-version-fix",
-  "version": "0.14.3",
+  "version": "0.14.4",
   "description": "react-swipeable-views core modules",
   "main": "lib/index.js",
   "scripts": {
